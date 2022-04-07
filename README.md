@@ -46,8 +46,8 @@ This multiple line chart shows the total fares for each city type between the mo
  #### Summary:
  
  
-Analyzing a smaller time frame means we can more accurately make assumptions about our ride share data.  Based off the Total Fare by City Type chart I would recommond three approaches that could help improve Pyber reduce disparities amongst city types for both riders and drivers.
+Analyzing a smaller time frame means we can more accurately make assumptions about our ride share data.  Based off the Total Fare by City Type chart I would recommond three approaches that could help Pyber reduce disparities amongst city types for both riders and drivers.
 
-1) Urban ride fares are on average $10 cheaper than rural ride fares. While rural fares make up a small percentage of the Pybers revenue increasing the amount the drivers in rural regions could help drive fare prices down and expand ride share access in underserved community types. 
+1) Urban ride fares are on average $10 cheaper than rural ride fares. While rural fares make up a small percentage of Pybers revenue increasing the amount the drivers in rural regions could help drive fare prices down and expand ride share access for broader underserved community types. 
 2) Suburban city types have the closest average fare per ride and average fare per driver cost however this city type experiences the largest drop in rideshare usage during the last week of February which may highlight the need to lower fare pricing for suburban city type. 
 3) Urban driver fares are almost 3 times lower as suburban driver fares.  Limiting Pyber drivers in urban settings could help raise fares retained by their employees. Also increasing fares in urban settings with traditional higher incomes could help reduce these disparities. 
