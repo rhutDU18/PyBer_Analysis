@@ -42,7 +42,7 @@ The new analysis is designed to provide Pyber CEO and relevant stakeholders a be
  
  
  
- ![This is an image](
+ ![This is an image](https://github.com/rhutDU18/PyBer_Analysis/blob/main/Analysis/Pyber_Summary_DF.png?raw=true)
  
  
  
